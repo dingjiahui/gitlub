@@ -1,7 +1,12 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 Creating a new branch is quick & simple.
 =======
 Creating a new branch is quick AND simple.
 >>>>>>> yingtao
 Hello
 How are you?
+=======
+Hellow!
+Creating a new branch is quick.
+>>>>>>> dev
